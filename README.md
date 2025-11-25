@@ -42,32 +42,43 @@ transistor, thus limiting the output voltage to the supply voltage.
 
 ## PROCEDURE
 
-▪ Refer to the block diagram & carry out the following connections and settings.
+▪ Refer to the block diagram & carry out the following connections and settings. 
 
-▪ Connect the power supply with proper polarity to the kit link-B and switch it on.
+▪ Connect the power supply with proper polarity to the kit link-B and switch it on. 
 
-▪ Keep all Switch Faults in OFF position.
+▪ Keep all Switch Faults in OFF position. 
 
-▪ Keep switch SW8 towards TX position.
+▪ Keep switch SW8 towards TX position. 
 
-▪ Keep switch SW9 towards TX1 position.
+▪ Keep switch SW9 towards TX1 position. 
 
-▪ Keep switch SW10 towards TTL position.
 
-▪ Keep Jumper JP5 towards +5V position.
 
-▪ Keep Jumpers JP6 shorted.
+<img width="637" height="258" alt="image" src="https://github.com/user-attachments/assets/3a18e537-9248-47bd-ac87-3019d397500a" />
 
-▪ Keep Jumper JP8 towards Pulse position.
+
+
+▪ Keep switch SW10 towards TTL position. 
+
+▪ Keep Jumper JP5 towards +5V position. 
+
+▪ Keep Jumpers JP6 shorted. 
+
+▪ Keep Jumper JP8 towards Pulse position. 
 
 ▪ Feed TTL Square wave signal of 1KHz from the function generator to the IN post of 
-Digital Buffer.
+Digital Buffer. 
 
-▪ Connect the output post OUT of Digital Buffer to the post TX IN of Transmitter.
 
-▪ Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector.
+<img width="642" height="217" alt="image" src="https://github.com/user-attachments/assets/9ef8cfa5-10e8-4136-b264-81f16f9eed2f" />
+
+
+
+▪ Connect the output post OUT of Digital Buffer to the post TX IN of Transmitter. 
+
+▪ Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. 
 Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by 
-screwing it back.
+screwing it back. 
 
 ▪ Connect the other end of the Fiber to detector SFH551V (Photo Transistor Detector) very 
 carefully.
@@ -80,15 +91,20 @@ the detected signal at various frequencies.
 ▪ Determine the frequency at which the detector stops recovering the signal. This determines the max. 
 bit rate on the digital link.
 
-▪ Keep switch SW9 towards TX2 position.
+▪ Keep switch SW9 towards TX2 position. 
 
-▪ Keep Jumper JP7 towards +5V position.
+▪ Keep Jumper JP7 towards +5V position. 
 
 ▪ Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do 
 not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the 
-cap. Now tighten the cap by screwing it back.
+cap. Now tighten the cap by screwing it back. 
 
-▪ Observe the detected signal at post TTL OUT on oscilloscope.
+▪ Observe the detected signal at post TTL OUT on oscilloscope. 
+
+
+<img width="646" height="233" alt="image" src="https://github.com/user-attachments/assets/bf5c5d46-443b-495f-83bb-074ae1007865" />
+
+
 
 ---
 
